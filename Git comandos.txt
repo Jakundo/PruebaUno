@@ -1,13 +1,4 @@
-Hay que estar en la ruta del proyecto
-
-sign apk:
-Right click on the project > Android Tools > Export Signed Application Package
-
-git init			-> 
-git add "file"			-> meter un archivo en el commit
-git status 			-> ver lo que has cambiado
-git commit -m "mensaje que sale en el commit"	-> enviar todo el commit
-git remote add origin https://github.com/skualninja/"Repository".git
+https://github.com/skualninja/"Repository".git
 git push -u origin master	-> si hacemos el comando de arriba podemos poner
 		simplemente "origin" sino se pone la ruta:
 		https://github.com/skualninja/"Repository".git
